@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Coding Aztecs is a platform for students to explore and learn
   basic concepts of computer programming. The goal is foster an interest in computer science and algorithmic
   thinking.
-baseurl: "Coding_Aztecs" # the subpath of your site, e.g. /blog
+baseurl: "/Coding_Aztecs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username:  jose0choa or jose-0choa
