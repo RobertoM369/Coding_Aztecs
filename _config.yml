@@ -30,7 +30,8 @@ twitter_username: N/A
 github_username:  jose0choa or jose-0choa
 
   # Build settings
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+#theme: just-the-docs
 plugins:
   - jekyll-feed
 
