@@ -11,7 +11,7 @@ author: Jose Ochoa
 #### Summer 2022
 ## Announcements: 
 
- | * Welcome to Coding Aztecs Week One! Please fill out the [google form](blah) if you haven't already! |
+ | * Welcome to Coding Aztecs Week One! Please fill out the [google form](https://docs.google.com/forms/d/e/1FAIpQLScUS5lg_CghEjdEFKkDZli2dXzCYxI0j2PapmrT-xO_fTyPyg/viewform?usp=sf_link) if you haven't already! |
 
 ___
 
