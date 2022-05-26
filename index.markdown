@@ -3,7 +3,7 @@ layout: home
 author: Jose Ochoa
 ---
 
-# **Coding Aztecs** <img src="/images/LaptopClipart.png" alt="CA logo" style="width:170px;"/> <img src="/images/python-logo-2.png" alt="Python Logo" style="width:70px;"/>
+# **Coding Aztecs** <img src="images/LaptopClipart.png" alt="CA logo" style="width:170px;"/> <img src="images/python-logo-2.png" alt="Python Logo" style="width:70px;"/>
 
 ---
 ### **Python and Programming Basics** 
