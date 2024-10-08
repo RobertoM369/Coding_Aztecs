@@ -8,6 +8,7 @@ permalink: /contact/
 ## Email:
 [jose0choa@berkeley.edu](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new) or [joseochoa0716@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 
+[robertomendez@berkeley.edu](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new) or [robertomendez12624@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 ## Instagram:
 [@jose_0choa](https://www.instagram.com/jose_0choa/)
 
